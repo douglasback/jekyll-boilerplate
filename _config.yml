@@ -1,0 +1,3 @@
+site: Jekyll Prototyping Boilerplate
+permalink: /:title.html
+exclude: ['node_modules', 'scss', 'Gruntfile.js', 'config.rb', 'component.json', 'package.json', 'README.md']
